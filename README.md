@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
 ###
@@ -95,5 +95,10 @@ I'm Nikita, an Applied ML Researcher and Computer Science graduate student at UC
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Nikita-200&show_icons=true&theme=dark" />
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nikita-200&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Nikita-200&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
 ###
