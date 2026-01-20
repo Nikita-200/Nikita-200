@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikita-200.Nikita-200&" />
 </div>
 
 ###
@@ -84,21 +84,5 @@ I'm Nikita, an Applied ML Researcher and Computer Science graduate student at UC
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square" />
 </div>
-
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Nikita-200&show_icons=true&theme=dark" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikita-200&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Nikita-200&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 
 ###
