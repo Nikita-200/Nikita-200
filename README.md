@@ -93,7 +93,7 @@ I'm Nikita, an Applied ML Researcher and Computer Science graduate student at UC
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikita-200&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Nikita-200&show_icons=true&theme=dark" />
 </div>
 
 ###
