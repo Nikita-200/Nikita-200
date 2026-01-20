@@ -79,7 +79,7 @@ I'm Nikita, an Applied ML Researcher and Computer Science graduate student at UC
   <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Supervised%20ML-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/NLP-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Generative%20Models-GAN%20%7C%20Diffusion-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative%20Models-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Recommender%20Systems-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square" />
